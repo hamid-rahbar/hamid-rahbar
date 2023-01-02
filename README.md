@@ -4,10 +4,9 @@
 
 <!-- <a href="https://github.com/mckolu/mckolu/blob/main/python.jpg"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/python.jpg"></a> -->
 
-I am a **data analyst** who have a strong passion for **helping businesses** identify their problems and find solutions. I believe that understanding the root cause of a problem is crucial for finding an effective solution, and I enjoy the challenge of digging deep to get to the heart of the issue.
+As a ***data analyst***, I am skilled in both **analyzing data** and **storytelling**. I am able to extract insights and patterns from complex datasets using a variety of tools and methodologies, and am able to present the findings in a clear and compelling way, using data visualization and narrative storytelling to convey the key takeaways. 
 
-
-Whether through data analysis or by working with stakeholders, I am dedicated to finding ways to improve business processes and **drive positive change**. I am constantly seeking opportunities to use my skills and knowledge **to make a difference** for businesses, and I am always eager to learn more about how I can help organizations solve their challenges.
+Whether I am working on a project to optimize business operations, identify trends and opportunities, or support decision-making, I am able to leverage my skills in data analysis and storytelling to **drive results** and **create values**.
 
 Some languages/technologies I enjoy working with are **Excel, SQL, and of course Python!** :)  
 
