@@ -4,7 +4,7 @@
 
 <!-- <a href="https://github.com/mckolu/mckolu/blob/main/python.jpg"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/python.jpg"></a> -->
 
-As a **data analyst**, I am skilled in both **analyzing data** and **storytelling**. I am able to extract insights and patterns from complex datasets using a variety of tools and methodologies, and am able to present the findings in a clear and compelling way, using data visualization and narrative storytelling to convey the key takeaways. 
+I am a **data analyst** who is passionate about helping organizations in identifying and solving problems through data-driven insights.
 
 Whether I am working on a project to optimize business operations, identify trends and opportunities, or support decision-making, I am able to leverage my skills in data analysis and storytelling to **drive results** and **create values**.
 
